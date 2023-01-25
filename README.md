@@ -13,6 +13,10 @@ Nesse conteúdo vou abordar estatística aplicada à análise de dados, tratamen
 ### - Limites usando regras dos quartis
 ### - Remoção de outliers
 
+# Notebooks
+
+[Clique aqui para abrir o notebook](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
+
 <br>
 <br>
 <br>
