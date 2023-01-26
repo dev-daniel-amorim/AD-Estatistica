@@ -1,6 +1,10 @@
 # Estatística em análise de dados
 
-Nesse conteúdo vou abordar estatística aplicada à análise de dados, tratamento de outliers e alguns comandos estatísticos do numpy.
+Nesse conteúdo vou abordar estatística aplicada à análise de dados, e importancia de entender
+a estatiística por trás do tratamento de dados, identificar outliers usando média, mediana e moda,
+regra dos quartis, anélise gráfica e muita dic interessante para todo analista de dados.
+
+# Assuntos abordados
 
 ### - Média
 ### - Mediana
