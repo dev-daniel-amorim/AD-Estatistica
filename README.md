@@ -7,6 +7,7 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 # Assuntos abordados
 
 ### - Média
+### - Média Ponderada
 ### - Mediana
 ### - Moda
 ### - Quantil
