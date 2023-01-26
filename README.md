@@ -1,6 +1,6 @@
 # Estatística em análise de dados
 
-Nesse conteúdo vou abordar estatística aplicada à análise de dados, e importancia de entender
+Nesse conteúdo iremos abordar estatística aplicada à análise de dados, e a importancia de entender
 a estatística por trás do tratamento dos dados, identificar outliers usando média, mediana,
 regra dos quartis, análise gráfica e muita dica interessante que todo analista de dados deve saber.
 
@@ -17,13 +17,13 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 ### - Limites usando regras dos quartis
 ### - Remoção de outliers
 
-# Notebooks
+# Notebook
 
-[Clique aqui para abrir o notebook](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
+[Clique aqui para abrir o notebook dessa aula](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
 
 <br>
 <br>
 <br>
 
-:construction: OBS: Estarei trazendo sempre material novos de estatística neste repositório :construction:
+:construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
  
