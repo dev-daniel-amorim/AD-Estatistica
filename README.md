@@ -21,11 +21,13 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 
 [Clique aqui para abrir o notebook dessa aula](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
 
+<hr>
 
+:construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
 <br>
 <br>
 <hr>
 
 [<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
-:construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
+
  
