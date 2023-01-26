@@ -24,8 +24,7 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 <hr>
 
 :construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
-<br>
-<br>
+
 <hr>
 
 [<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
