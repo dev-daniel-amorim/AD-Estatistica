@@ -22,7 +22,7 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 
 ## Aula 02
 
-### - Coeficiente de correlaçãp
+### - Coeficiente de correlação
 
 # Notebook
 
