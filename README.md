@@ -27,6 +27,7 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 # Notebook
 
 [Notebook 01 - Aula 01](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
+
 [Notebook 02 - Aula 02](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica_02.ipynb)
 <hr>
 
