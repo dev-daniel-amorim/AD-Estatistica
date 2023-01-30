@@ -6,6 +6,8 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 
 # Assuntos abordados
 
+## Aula 01
+
 ### - Média
 ### - Média Ponderada
 ### - Mediana
@@ -18,10 +20,14 @@ regra dos quartis, análise gráfica e muita dica interessante que todo analista
 ### - Limites usando regras dos quartis
 ### - Remoção de outliers
 
+## Aula 02
+
+### - Coeficiente de correlaçãp
+
 # Notebook
 
-[Clique aqui para abrir o notebook dessa aula](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
-
+[Notebook 01 - Aula 01](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica.ipynb)
+[Notebook 02 - Aula 02](https://github.com/dev-daniel-amorim/AD-Estatistica/blob/main/AD-Estatistica_02.ipynb)
 <hr>
 
 :construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
