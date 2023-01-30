@@ -1,8 +1,8 @@
 # Estatística em análise de dados
 
 Nesse conteúdo iremos abordar estatística aplicada à análise de dados, e a importancia de entender
-a estatística por trás do tratamento dos dados, identificar outliers usando média, mediana,
-regra dos quartis, análise gráfica e muita dica interessante que todo analista de dados deve saber.
+a estatística por trás do tratamento dos dados, identificar outliers, correlações entre variáveis, regra dos quartis,
+análise gráfica e muita dica interessante que todo analista de dados deve saber.
 
 # Assuntos abordados
 
