@@ -8,7 +8,7 @@ análise gráfica e muita dica interessante que todo analista de dados deve sabe
 
 ## Aula 01
 
-### - Média
+  - Média
 ### - Média Ponderada
 ### - Mediana
 ### - Moda
