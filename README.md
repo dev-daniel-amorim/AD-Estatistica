@@ -31,6 +31,8 @@ análise gráfica e muita dica interessante que todo analista de dados deve sabe
 
 :construction: OBS: Estarei sempre atualizando este repositório incrementando cada vez mais o conhecimento estatístico para análise de dados.:construction:
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 <hr>
 
 [<< Voltar para página inicial](https://github.com/dev-daniel-amorim)
