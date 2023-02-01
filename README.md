@@ -9,20 +9,20 @@ análise gráfica e muita dica interessante que todo analista de dados deve sabe
 ## Aula 01
 
   - Média
-### - Média Ponderada
-### - Mediana
-### - Moda
-### - Quantil
-### - Medidas de dispersão
-  - Variância (populacional e amostral)
-  - Desvio padrão
-  - Desvio médio absoluto
-### - Limites usando regras dos quartis
-### - Remoção de outliers
+  - Média Ponderada
+  - Mediana
+  - Moda
+  - Quantil
+  - Medidas de dispersão
+    - Variância (populacional e amostral)
+    - Desvio padrão
+    - Desvio médio absoluto
+  - Limites usando regras dos quartis
+  - Remoção de outliers
 
 ## Aula 02
 
-### - Coeficiente de correlação
+  - Coeficiente de correlação
 
 # Notebook
 
