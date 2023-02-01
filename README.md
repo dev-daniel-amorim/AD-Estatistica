@@ -4,8 +4,6 @@ Nesse conteúdo iremos abordar estatística aplicada à análise de dados, e a i
 a estatística por trás do tratamento dos dados, identificar outliers, correlações entre variáveis, regra dos quartis,
 análise gráfica e muita dica interessante que todo analista de dados deve saber.
 
-# Assuntos abordados
-
 ## Aula 01
 
   - Média
